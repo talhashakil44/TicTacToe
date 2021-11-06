@@ -2,6 +2,8 @@
 
 ## 2 Player Tic Tac Toe Game
 
+#### This project was entirely made using C++ 
+
 ### Tic Tac Toe Board
 
 |  | 0  | 1  | 2  |
